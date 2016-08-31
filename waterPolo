@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html><head>
+<style>
+
+h1, h2 {
+	color: teal;
+	text-align: center;
+	font-style: "Georgia";
+}
+a {
+	color:#ffa500
+}
+ul#menu { 
+	padding:0;
+	list-style: none;
+    	width:1000px;
+    	margin:0 auto;
+}
+ul#menu li {
+	display:inline
+}
+ul#menu li a {
+	background-color:lightgrey;
+	color:purple;
+	padding:10px 20px;
+	text-decoration:none;
+	border-radius:4px 4px 0 0
+}
+}
+</style>
+<style type="text/css"></style></head>
+<body>
+
+<h1>Kaylee Jones</h1>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<p align="left"><font size = 14>
+Water Polo	
+</font>
+</p>
+<p align = "left"><font size = 8>
+<b>Equipment: </b> <i>water polo swim suit, goal cage, swim cap, water polo cap, sunscreen</i>
+<b>Weather:</b> <i>Anything but lightning. Literally, anything.</i>
+<p></p>
+<b>The Experience</b><p></p>
+Although the name may mislead one to think that it is played with horses,
+Water Polo is a contact-sport that is like hockey, but in the water. Many take up the sport to keep in shape for competitive swimming,
+and end up liking water polo better.
+<p></p>
+Best played when sunny, but doesn't stop one from playing it in the rain, snow, etc. Remember to get out of the water asap when
+there is a thunder storm.
+
+</body>
+</html>
+
+
+</body></html>
